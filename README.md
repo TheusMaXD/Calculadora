@@ -4,5 +4,5 @@
 
 Para rodar esse Projeto em sua máquina, por favor digite:
 ```
-
+https://github.com/TheusMaXD/Calculadora.git
 ```
